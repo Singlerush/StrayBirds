@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: Singlerush
+username: singlerush
 baseurl: /StrayBirds
 kramdown: redcarpet
 safe: false
