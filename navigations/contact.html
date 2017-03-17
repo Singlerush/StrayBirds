@@ -5,9 +5,7 @@ comment: true
 ---
 
 <div class="article">
-    <h3 class="title">{{ page.title }}</h3>
     <div class="about">
-
         <div class="about-text">
             <p>{{ site.author.simpleIntro }}</p>
             {{ site.author.detailIntro }}
@@ -23,9 +21,9 @@ comment: true
         {% endfor %}
     </div>
     <div class="fn-clear"></div>
-	<br>
+	<hr>
     <div class="contact">
-		<p>Email Address:</p><br>
+		<p>Email Address:</p>
 		<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
     </div>
     <div class="comment">
