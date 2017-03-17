@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: ""
+url: /blog
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -116,11 +116,10 @@ disqus:
 #################################### global configure #######################################
 
 username: singlerush
-baseurl: ""
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-sitemapurl: "http://singlerush.github.io"
 title: Matrix
 description: Entries of Matrix
 theme: midnight
