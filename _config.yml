@@ -120,6 +120,7 @@ baseurl: ""
 markdown: redcarpet
 safe: false
 highlighter: pygments
+sitemapurl: "http://minixalpha.github.io"
 title: Matrix
 description: Entries of Matrix
 theme: midnight
