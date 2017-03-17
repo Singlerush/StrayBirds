@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Contact
 comment: true
@@ -23,8 +23,9 @@ comment: true
         {% endfor %}
     </div>
     <div class="fn-clear"></div>
+	<br>
     <div class="contact">
-        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <span>我的邮箱：</span><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
     </div>
     <div class="comment">
         {% if site.disqus.config %}
