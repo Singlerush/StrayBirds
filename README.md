@@ -1,6 +1,6 @@
 Singlerush Blog 
 
-<h3>Matrix</h3>
+<h3><a href="https://singlerush.github.io/blog">Matrix</a></h3>
 
 <hr>
 
