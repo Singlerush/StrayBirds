@@ -120,7 +120,7 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Matrix
-description: Entries of Matrix
+description: Entries of a Matrix
 theme: midnight
 disqusname: Singlerush
 
